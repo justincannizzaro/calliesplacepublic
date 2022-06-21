@@ -13,7 +13,7 @@
 		<h1 style="text-align: center">
 			Callie's Place
 		</h1>
-		<div style="border:solid">
+		<div>
 			<img onclick="" id="calliePic1" src="images/calliepictures/1.jpg" style="width: 47%">
 			<img onclick="" id="calliePic2" src="images/calliepictures/2.jpg" style="width: 47%">
 		</div>
