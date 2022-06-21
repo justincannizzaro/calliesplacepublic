@@ -11,7 +11,7 @@
 	<body>
 
 		<h1 style="text-align: center">
-			Callie's Place
+			Callie's Place!
 		</h1>
 		<div>
 			<img onclick="" id="calliePic1" src="images/calliepictures/1.jpg" style="width: 47%">
