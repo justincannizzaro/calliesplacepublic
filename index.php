@@ -14,16 +14,16 @@
 			Callie's Place
 		</h1>
 		<div>
-			<img onclick="" id="calliePic1" src="images/calliepictures/1.jpg" style="width: 40%">
-			<img onclick="" id="calliePic2" src="images/calliepictures/2.jpg" style="width: 40%">
+			<img onclick="" id="calliePic1" src="images/calliepictures/1.jpg" style="width: 47%">
+			<img onclick="" id="calliePic2" src="images/calliepictures/2.jpg" style="width: 47%">
 		</div>
 		<div>
-			<img onclick="" id="calliePic3" src="images/calliepictures/3.jpg" style="width: 40%">
-			<img onclick="" id="calliePic4" src="images/calliepictures/4.jpg" style="width: 40%">
+			<img onclick="" id="calliePic3" src="images/calliepictures/3.jpg" style="width: 47%">
+			<img onclick="" id="calliePic4" src="images/calliepictures/4.jpg" style="width: 47%">
 		</div>
 		<div>
-			<img onclick="" id="calliePic5" src="images/calliepictures/5.jpg" style="width: 40%">
-			<img onclick="" id="calliePic6" src="images/calliepictures/6.jpg" style="width: 40%">
+			<img onclick="" id="calliePic5" src="images/calliepictures/5.jpg" style="width: 47%">
+			<img onclick="" id="calliePic6" src="images/calliepictures/6.jpg" style="width: 47%">
 		</div>
 
 		<script>
