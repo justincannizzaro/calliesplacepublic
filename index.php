@@ -10,6 +10,8 @@
 	</head>
 	<body>
 		<img src="images/calliepictures/iconWork.png" style="width: 7%"/>
+		<img src="images/calliepictures/iconWork2.png" style="width: 7%"/>
+		<img src="images/calliepictures/iconWork3.png" style="width: 7%"/>
 		<h1 style="text-align: center">
 			-dev- Callie's Place! -dev-
 		</h1>
