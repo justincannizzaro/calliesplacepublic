@@ -9,7 +9,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-
+		<img src="images/calliespictures/iconWork.png" style="width: 7%"/>
 		<h1 style="text-align: center">
 			-dev- Callie's Place! -dev-
 		</h1>
